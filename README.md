@@ -7,4 +7,3 @@ Here, you'll find what I've been thinking about and what I've been working on. C
 
 -Alex
 
-\( \sum_{i = 0}^{n} i = \frac{n(n+1)}{2} \)
