@@ -6,5 +6,3 @@ I'm a student at the University of Washington in Seattle studying mathematics. I
 Here, you'll find what I've been thinking about and what I've been working on. Cheers!
 
 -Alex
-
-$\sum_{i = 0}^{n} i = \frac{n(n+1)}{2}$
